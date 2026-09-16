@@ -8,10 +8,17 @@ Automação de tarefas operacionais com Python para ganho de tempo e produtivida
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="34" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="46" height="34" alt="slack logo"  />
+
+  <a href="https://www.linkedin.com/in/bruno-sottomayor-martin-3554aa283/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://www.instagram.com/brunosmartin_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="34" alt="instagram logo"  />
+  </a>
+
 </div>
+
 
 ###
 
