@@ -33,7 +33,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosm26&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/brunosm26/brunosm26/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
