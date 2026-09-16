@@ -1,5 +1,10 @@
 <h3 data-importer="text" align="center">Olá ! Me chamo Bruno Martin</h3>
 
+<p data-importer="text" align="center"> Desenvolvedor TOTVS Fluig no Grupo Iquine, transformando demandas operacionais em soluções tecnológicas práticas. O foco do meu trabalho é tornar a rotina dos usuários mais ágil por meio de fluxos de processos estruturados e automações.
+Conhecimentos e práticas diárias:
+Desenvolvimento de processos BPM e interfaces no ecossistema TOTVS Fluig com JavaScript, TSX (Next.js), HTML e CSS.
+Automação de tarefas operacionais com Python para ganho de tempo e produtividade. </p>
+
 ###
 
 <div data-importer="socials" align="center">
